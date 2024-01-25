@@ -4,4 +4,5 @@ This repository is intended for anonymous review purposes. We have only provided
 
 ## More results on NDCG10
 
+Table:Accuracy (NDCG@10) comparison of IDCF and TCF using DSSM and SASRec. \textit{FR} represents using frozen LM, while \textit{FT}  represents using fine-tuned LM.
 ![test](https://github.com/anonymous-TCF/anonymous-TCF/blob/main/Figures/pixel8M_results.jpg)
