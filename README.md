@@ -18,3 +18,26 @@ This repository is intended for anonymous review purposes. We have only provided
 
 **TCF with retrained LM vs frozen LM (y-axis: NDCG@10(%)), where only the top two layers are retrained. The 175B LM is not retrained due to its ultra-high computational cost.**
 ![FtvsFz_ndcg](https://github.com/anonymous-TCF/anonymous-TCF/blob/main/Figures/finetune_vs_freeze_ndcg.jpg)
+
+## ChatGPT4Rec
+The output by ChatGPT in the figure below indicates that ChatGPT fully understands the recommendation request. 
+![Verify_ChatGPT4Rec](https://github.com/anonymous-TCF/anonymous-TCF/blob/main/Figures/ChatGPT4Rec_0-cropped.jpg)
+
+We also show the prompts for ChatGPT on MIND, HM, and Bili respectively with the figures below.
+
+**Example of Task 1 for MIND**
+![Mind_ChatGPT4Rec1](https://github.com/anonymous-TCF/anonymous-TCF/blob/main/Figures/ChatGPT4Rec_MIND_4-cropped.jpg)
+**Example of Task 2 for MIND**
+![Mind_ChatGPT4Rec2](https://github.com/anonymous-TCF/anonymous-TCF/blob/main/Figures/ChatGPT4Rec_MIND_10-cropped.jpg)
+
+**Example of Task 1 for HM**
+![HM_ChatGPT4Rec1](https://github.com/anonymous-TCF/anonymous-TCF/blob/main/Figures/ChatGPT4Rec_HM_4-cropped.jpg)
+**Example of Task 2 for HM**
+![HM_ChatGPT4Rec2](https://github.com/anonymous-TCF/anonymous-TCF/blob/main/Figures/ChatGPT4Rec_HM_10-cropped.jpg)
+
+**Example of Task 1 for Bili**
+![Bili_ChatGPT4Rec1](https://github.com/anonymous-TCF/anonymous-TCF/blob/main/Figures/ChatGPT4Rec_Bili_4-cropped.jpg)
+**Example of Task 2 for Bili**
+![Bili_ChatGPT4Rec2](https://github.com/anonymous-TCF/anonymous-TCF/blob/main/Figures/ChatGPT4Rec_Bili_10-cropped.jpg)
+
+
