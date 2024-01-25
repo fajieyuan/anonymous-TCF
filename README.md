@@ -19,6 +19,9 @@ This repository is intended for anonymous review purposes. We have only provided
 **TCF with retrained LM vs frozen LM (y-axis: NDCG@10(%)), where only the top two layers are retrained. The 175B LM is not retrained due to its ultra-high computational cost.**
 ![FtvsFz_ndcg](https://github.com/anonymous-TCF/anonymous-TCF/blob/main/Figures/finetune_vs_freeze_ndcg.jpg)
 
+## Results of Bili8M
+![Bili_8M](https://github.com/anonymous-TCF/anonymous-TCF/blob/main/Figures/pixel8M_results.jpg)
+
 ## ChatGPT4Rec
 The output by ChatGPT in the figure below indicates that ChatGPT fully understands the recommendation request. 
 ![Verify_ChatGPT4Rec](https://github.com/anonymous-TCF/anonymous-TCF/blob/main/Figures/ChatGPT4Rec_0-cropped.jpg)
