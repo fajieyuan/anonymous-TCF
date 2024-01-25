@@ -20,7 +20,7 @@ This repository is intended for anonymous review purposes. We have only provided
 ![FtvsFz_ndcg](https://github.com/anonymous-TCF/anonymous-TCF/blob/main/Figures/finetune_vs_freeze_ndcg.jpg)
 
 ## Results of Bili8M
-![TCFlargeBili8M](https://github.com/anonymous-TCF/anonymous-TCF/blob/main/Figures/pixel8M_results.jpg)
+![TCFlargeBili8M](https://github.com/anonymous-TCF/anonymous-TCF/blob/main/Figures/pixel8M_results_version1.jpg)
 
 ## ChatGPT4Rec
 The output by ChatGPT in the figure below indicates that ChatGPT fully understands the recommendation request. 
